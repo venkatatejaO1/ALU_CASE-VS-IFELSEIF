@@ -94,6 +94,7 @@ Click “OK” in the “nclaunch: Open Design Directory” window, as shown in 
 An ‘NCLaunch window’ appears as shown in the figure below
 
 Left side, you can see the HDL files. The right side of the window has Worklib and snapshots directories listed.
+![exp 4](https://github.com/user-attachments/assets/20e13163-f775-49f1-b1b0-8be9a25ed46b)
 
 Worklib is the directory where all the compiled codes are stored, while Snapshot will have the output of elaboration, which in turn goes for simulation.
 
